@@ -1,0 +1,32 @@
+{
+  "name": "Banner Changer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "discord-banner-changer",
+    "animated",
+    "gif"
+  ],
+  "author": "Friday",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.74",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
